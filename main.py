@@ -134,6 +134,6 @@ def logout():
     return redirect('/')
 
 
-print("Hola mundo")
+
 if __name__ == "__main__":
     app.run(debug=True)
